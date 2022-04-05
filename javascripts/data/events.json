@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "titulo": "VTEX DAY 2022",
+      "dataInicio": "2022-04-12",
+      "dataFim": "2022-04-13",
+      "local": "São Paulo Expo",
+      "endereco": "Rod. dos Imigrantes - Vila Água Funda, 04329-900",
+      "localizacao": {
+        "latitude": -23.644556583833158,
+        "longitude": -46.62966371775758
+      },
+      "link": "https://vtexday.vtex.com/"
+    },
+    {
+      "titulo": "Campus Party 2022",
+      "dataInicio": "2022-06-15",
+      "dataFim": "2022-06-19",
+      "local": "Passeio das Águas Shopping",
+      "endereco": "Av. Perimetral Norte, 8303 - Fazenda Caveiras, Goiânia - GO, 74573-260",
+      "localizacao": {
+        "latitude": -16.62887027217843,
+        "longitude": -49.27873491534526
+      },
+      "link": "https://brasil.campus-party.org/cpgoias2/"
+    }
+  ]
+}

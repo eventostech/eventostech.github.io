@@ -1,0 +1,23 @@
+{
+  "name": "eventostech.github.io",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/eventostech/eventostech.github.io.svg?branch=main)](https://travis-ci.org/eventostech/eventostech.github.io)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eventostech/eventostech.github.io/issues"
+  },
+  "homepage": "https://github.com/eventostech/eventostech.github.io#readme",
+  "devDependencies": {
+    "csslint": "^1.0.5",
+    "htmlhint": "^1.1.3",
+    "jshint": "^2.13.4",
+    "mocha": "^9.2.2",
+    "should": "^13.2.3"
+  }
+}
